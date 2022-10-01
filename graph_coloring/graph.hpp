@@ -1,5 +1,4 @@
 //
-//  graph.hpp
 //  graph_coloring
 //
 //  Created by Павел

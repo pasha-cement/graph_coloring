@@ -1,5 +1,4 @@
 //
-//  main.cpp
 //  graph_coloring
 //
 //  Created by Павел
