@@ -12,7 +12,7 @@
 
 using namespace std;
 
-int main(){
+int main(int argc, char* argv[]){
     ofstream fout;
     int this_colors;
     fout.open("result data.txt");
